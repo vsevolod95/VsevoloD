@@ -1,2 +1,4 @@
-![EBYRNOT](https://user-images.githubusercontent.com/68111911/118180186-519f3c80-b447-11eb-868b-6feb55c3057a.png)
-imageView.setScaleType(ImageView.ScaleType.FIT_XY)
+<p align="center">
+  <img src="EBYRNOT.png" width="350" title="hover text">
+  <img src="EBYRNOT.png" width="350" alt="accessibility text">
+</p>
